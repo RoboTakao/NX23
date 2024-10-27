@@ -21,6 +21,9 @@ https://youtu.be/lgQTTmdJifQ
 ![image](NX23_3.jpg)
 ![image](NX23_4.jpg)
 
+[BOM]  
+![image](NX23_5.jpg)
+
 [Code]  
 M5CoreS3
  NX23_M5CoreS3_walk_JoyC_ik_IMU  
