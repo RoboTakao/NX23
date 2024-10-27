@@ -2,8 +2,11 @@
 
 ![image](NX23_1.jpg)
 
-Summary
+[Summary]
 http://robo-takao.jp/NX23/e/index.html
+
+[Movie]  
+https://youtu.be/lgQTTmdJifQ
 
 [Components]  
 1)M5 CoreS3  
