@@ -20,3 +20,12 @@ https://youtu.be/lgQTTmdJifQ
 [3D model]  
 ![image](NX23_3.jpg)
 ![image](NX23_4.jpg)
+
+[Code]  
+M5CoreS3
+ NX23_M5CoreS3_walk_JoyC_ik_IMU  
+M5StickC with JoyC
+ NX23_M5StickC_joyC  
+
+[Akitsuki PCA9685 Libraly]
+https://akizukidenshi.com/goodsaffix/PCA9685.zip
